@@ -1,5 +1,10 @@
 # obsidian-base
-A template repository for Obsidian based repos.
+Obsidian knowledge base for random things I learn throughout the day
+
+## Core Resources
+| Name | Topics | Link |
+| ---- | ------ | ---- |
+| Sebastian Raschka's Ahead of AI Mag | AI, theory, engineering, career | [substack](https://magazine.sebastianraschka.com/) |
 
 ## Rules
 For structure of the Obsidian repo, one should follow these rules:
