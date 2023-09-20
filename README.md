@@ -8,3 +8,5 @@ Obsidian knowledge base for random things I learn throughout the day
 | AK’s Substack | AI research | [substack](https://akhaliq.substack.com/) |
 | Tracy Young | Funds and Startups | [Tracy writes (posthaven.com)](https://tracy.posthaven.com/archive) |
 | the Leader Maker | about leadership and pursuit of responsibility | [Leadership in Action (theleadermaker.com)](https://www.theleadermaker.com/)
+| Billy Oppenheimer's newsletter (active in X too) | Every aspect of personal development | [Newsletter - Billy Oppenheimer](https://billyoppenheimer.com/newsletter/) 
+
